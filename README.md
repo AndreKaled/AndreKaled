@@ -2,9 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi!+I'm+André+Kaled+Duarte;I'm+18+years+old;I+from+Brasil,+AM;I+study+programming+at+IFAM;I+really+want+to+learn+^^)](https://git.io/typing-svg)
 
+## Statistics
 <div align="center">
   <img width='49%' height=195px src='https://github-readme-stats.vercel.app/api?username=AndreKaled&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true'>
   <img width='41%' height=195px src='https://github-readme-stats.vercel.app/api/top-langs/?username=AndreKaled&layout=compact&theme=tokyonight&locale=pt-br'>
+  <p></p>
+  <img width='100%' height=195px src='https://streak-stats.demolab.com?user=AndreKaled&theme=tokyonight'>
 </div>
 
 ## Tools
@@ -30,7 +33,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-## Social medias
+## Contact me
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/756650873073041428)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrekaled9@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/andre.kaled)
