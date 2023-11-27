@@ -40,9 +40,15 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-kaled)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/92994392152?text=Oi+André,+gostaria+de+falar+contigo!)
 
-## I
-- 🤓 I'm making a study app called [HelpStudy](https://github.com/AndreKaled/HelpStudy) as a technical course project.
-- 🧠 I know project management through Scrum and Kanban.
+## Personal projects
+I have a study app called [HelpStudy](https://github.com/AndreKaled/HelpStudy) as a technical course project.
+
+## About me
+- 🧠 I know project management through Scrum and Kanban!
 - 💙 I like programming, movies/anime, games and meeting people!
+- 🐱‍🚀 I participated in the Campus Party Amazônia 2023!
+- 💎 I was a competitor for OBI 2022/2023, I was approved for the state phases!
+- 🏅 I am a medalist in the Programming Marathon, an internal IFAM competition!
+- 🧐 I seek a job, I'm a Dev Jr.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?color=148CFC&height=200&text=Thanks!&type=slice&fontAlign=70&rotate=13&fontAlignY=30&section=footer&reversal=true&fontColor=148CFC">
