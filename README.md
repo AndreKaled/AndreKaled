@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi!+I'm+André+Kaled+Duarte;I'm+18+years+old;I+from+Brasil,+AM;I+study+programming+at+IFAM;I+really+want+to+learn+^^)](https://git.io/typing-svg)
 
 <div align="center">
-  <img width='49%' height=195px src='https://github-readme-stats.vercel.app/api?username=AndreKaled&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&rank_icon=github'>
+  <img width='49%' height=195px src='https://github-readme-stats.vercel.app/api?username=AndreKaled&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true'>
   <img width='41%' height=195px src='https://github-readme-stats.vercel.app/api/top-langs/?username=AndreKaled&layout=compact&theme=tokyonight&locale=pt-br'>
 </div>
 
