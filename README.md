@@ -41,7 +41,12 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/92994392152?text=Oi+André,+gostaria+de+falar+contigo!)
 
 ## Personal projects
-I have a study app called [HelpStudy](https://github.com/AndreKaled/HelpStudy) as a technical course project.
+I created [google](https://google.com/)
+I'm part of the [Manual IF]() project, a website to help students at my school.
+My [portfolio](https://andrekaled.github.io/Portfolio/), I also consider it as a project, as I am studying to become able to program for the web and present my skills to the public.
+I have a study app called [HelpStudy](https://github.com/AndreKaled/HelpStudy) as a technical course project, and I the [website](https://andrekaled.github.io/HelpStudy-Web/) for HelpStudy in the [HelpStudy-Web](https://github.com/AndreKaled/HelpStudy-Web), I participated together with (Manfred)[https://github.com/Manfred-pc].
+I was part of a collective project known as [Dindin](https://github.com/AndreKaled/Dindin), a Monopoly board game, but to program for Desktop and learn concepts of OOP and Agile Methodologies (Scrum and Kanban), I participated together with [Sarah Pinheiro](https://github.com/spptunes), [Graziela Ralph](https://github.com/grzlrlph) and [Kauan Ferreira](https://github.com/KauanSntz)
+
 
 ## About me
 - 🧠 I know project management through Scrum and Kanban!
