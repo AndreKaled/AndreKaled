@@ -41,8 +41,6 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/92994392152?text=Oi+André,+gostaria+de+falar+contigo!)
 
 ## Personal projects
-I created [google](https://google.com/)
-
 I'm part of the [Manual IF]() project, a website to help students at my school.
 
 My [portfolio](https://andrekaled.github.io/Portfolio/), I also consider it as a project, as I am studying to become able to program for the web and present my skills to the public.
