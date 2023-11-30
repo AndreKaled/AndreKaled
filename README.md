@@ -4,7 +4,7 @@
 
 ## Statistics
 <div align="center">
-  <img width='49%' height=195px src='https://github-readme-stats.vercel.app/api?username=AndreKaled&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true'>
+  <img width='49%' height=195px src='https://github-readme-stats.vercel.app/api?username=AndreKaled&show_icons=false&theme=tokyonight&locale=pt-br&include_all_commits=true'>
   <img width='41%' height=195px src='https://github-readme-stats.vercel.app/api/top-langs/?username=AndreKaled&layout=compact&theme=tokyonight&locale=pt-br'>
   <p></p>
   <img width='100%' height=195px src='https://streak-stats.demolab.com?user=AndreKaled&theme=tokyonight'>
