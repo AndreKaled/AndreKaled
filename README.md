@@ -1,6 +1,6 @@
 <img width="100%" src='https://capsule-render.vercel.app/api?color=148CFC&text=Hi,%20André%20here&height=200&type=slice&fontAlign=70&rotate=13&fontAlignY=30&section=header'>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi!+I'm+André+Kaled+Duarte;I'm+18+years+old;I+from+Brasil,+AM;I+study+programming+at+IFAM;I+really+want+to+learn+^^)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee&size=35&center=true&duration=2000&pause=1000&random=false&width=1000&height=320&lines=Hi!+I'm+Andr%C3%A9+kaled+duarte;I+study+information+systems+at+Fametro;I'm+developer+and+programmer;I'm+18+years+old%2C+I+live+in+Manaus+AM%2C+Brazil;I+love+learning+%5E%5E)](https://git.io/typing-svg)
 
 | Programming Languages | Studying | Frameworks & Tools | Databases | XP in |
 |:---:|:---:|:---:|:---:|:---:|
