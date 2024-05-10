@@ -37,5 +37,6 @@ I was part of a collective project known as [Dindin](https://github.com/AndreKal
 - 💎 I was a competitor for OBI 2022/2023, I was approved for the state phases!
 - 🏅 I am a medalist in the Programming Marathon, an internal IFAM competition!
 - 🧐 I seek a job, I'm a Dev Jr.
+- [![](https://visitcount.itsvg.in/api?id=AndreKaled&label=Visualiza%C3%A7%C3%B5es&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?color=148CFC&height=200&text=Thanks!&type=slice&fontAlign=70&rotate=13&fontAlignY=30&section=footer&reversal=true&fontColor=148CFC">
