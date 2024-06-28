@@ -1,10 +1,10 @@
 <img width="100%" src='https://capsule-render.vercel.app/api?color=148CFC&text=Hi,%20André%20here&height=200&type=slice&fontAlign=70&rotate=13&fontAlignY=30&section=header'>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee&size=35&center=true&duration=2000&pause=1000&random=false&width=1000&height=320&lines=Hi!+I'm+Andr%C3%A9+kaled+duarte;I+study+information+systems+at+Fametro;I'm+developer+and+programmer;I'm+18+years+old%2C+I+live+in+Manaus+AM%2C+Brazil;I+love+learning+%5E%5E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee&size=35&center=true&duration=2000&pause=1000&random=false&width=1000&height=320&lines=Hi!+I'm+Andr%C3%A9+kaled+duarte;I+study+computer+science+at+UFAM;I'm+developer+and+programmer;I'm+19+years+old%2C+I+live+in+Manaus+AM%2C+Brazil;I+love+learning+%5E%5E)](https://git.io/typing-svg)
 
 | Programming Languages | Studying | Frameworks & Tools | Databases | XP in |
 |:---:|:---:|:---:|:---:|:---:|
-| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) | ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) |
+| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) | ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) |
 
 ## Statistics
 <div align="center">
@@ -22,7 +22,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/92994392152)
 
 ## Projects
-I am automating an administrative report, referring to the PRODAM system for controlling people and values ​​transferred to a clinic, present in [this link](https://github.com/AndreKaled/automacao-relatorio-prodam).
+I implemented Conway's game of life, my solution is available [here](https://github.com/AndreKaled/JogoDaVida).
 
 I have a study app called [HelpStudy](https://github.com/AndreKaled/HelpStudy) as a technical course project, and I the [website](https://andrekaled.github.io/HelpStudy-Web/) for HelpStudy in the [HelpStudy-Web](https://github.com/AndreKaled/HelpStudy-Web), I participated together with [Manfred](https://github.com/Manfred-pc).
 
@@ -34,7 +34,7 @@ I was part of a collective project known as [Dindin](https://github.com/AndreKal
 - 🤩 I study information systems at Fametro.
 - 💙 I like programming, movies/anime, games and meeting people!
 - 🐱‍🚀 I participated in the Campus Party Amazônia 2023!
-- 💎 I was a competitor for OBI 2022/2023, I was approved for the state phases!
+- 💎 I was a competitor for OBI since 2022, I was approved for the state phases!
 - 🏅 I am a medalist in the Programming Marathon, an internal IFAM competition!
 - 🧐 I seek a job, I'm a Dev Jr.
 - [![](https://visitcount.itsvg.in/api?id=AndreKaled&label=Visualiza%C3%A7%C3%B5es&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)
