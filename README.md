@@ -1,10 +1,11 @@
 # Hey! André aqui!
 
-<div style="display: flex; padding: 10px;">
-  <div style="background-color: lightblue; padding: 20px; margin: 10px;">
+<table style="display: flex; padding: 10px;">
+  <tr>
+  <td style="background-color: lightblue; padding: 20px; margin: 10px;">
     <img src="nerd_emoji!.jpg" alt="Nerd Emoji">
-  </div>
-  <div style="background-color: lightgreen; padding: 20px; margin: 10px;">
+  </td>
+  <td style="background-color: lightgreen; padding: 20px; margin: 10px;">
     /Sobre_Mim... <br>
     | <br>
     |-- /BIO <br>
@@ -32,8 +33,8 @@
     ㅤㅤ|-- /JavaScript.js <br>
     ㅤㅤ|-- /Python.py <br>
     ㅤㅤ|-- /PHP.php <br>
-  </div>
-</div>
+  </td>
+</table>
 
 ---
 
