@@ -1,8 +1,8 @@
 # Hey! André aqui!
 
 <table>  <tr>
-  <td style="width: 50%">
-    <img src="nerd_emoji!.png" alt="Nerd Emoji" style="width:200%">
+  <td>
+    <img src="nerd_emoji!.png" alt="Nerd Emoji" style="width:200px">
   </td>
   <td>
     /Sobre_Mim... <br>
