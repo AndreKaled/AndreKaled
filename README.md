@@ -1,6 +1,5 @@
 # Hey! André aqui!
 
-<div>
 <table>  <tr>
   <td style="width: 50%">
     <img src="nerd_emoji!.png" alt="Nerd Emoji" style="width:200%">
@@ -35,7 +34,6 @@
     ㅤㅤ|-- /PHP.php <br>
   </td>
 </table>
-</div>
 
 ---
 
