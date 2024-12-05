@@ -1,16 +1,15 @@
 # Hey! André aqui!
 
-<table style="display: flex; padding: 10px;">
-  <tr>
+<table style="width: 100%; table-layout: fixed;">  <tr>
   <td style="background-color: lightblue; padding: 20px; margin: 10px;">
-    <img src="nerd_emoji!.jpg" alt="Nerd Emoji">
+    <img src="nerd_emoji!.jpg" alt="Nerd Emoji" style="width: 100%; max-width: 400px; height: auto;">
   </td>
   <td style="background-color: lightgreen; padding: 20px; margin: 10px;">
     /Sobre_Mim... <br>
     | <br>
     |-- /BIO <br>
     |ㅤ |-- /Formação <br>
-    |ㅤ |ㅤㅤ|-- /Estudando_Ciência_da_Computação - Universidade Federal do Amazonas<br>
+    |ㅤ |ㅤㅤ|-- /Estudando_Ciência_da_Computação - Universidade Federal - AM<br>
     |ㅤ |ㅤㅤ|-- /Téc_Informatica - Instituto Federal do Amazonas (IFAM) <br>
     |ㅤ | <br>
     |ㅤ |-- /Fun_Facts <br>
