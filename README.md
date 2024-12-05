@@ -3,7 +3,7 @@
 <div>
 <table>  <tr>
   <td style="width: 50%">
-    <img src="nerd_emoji!.png" alt="Nerd Emoji" style="min-width:200%">
+    <img src="nerd_emoji!.png" alt="Nerd Emoji" style="width:200%">
   </td>
   <td>
     /Sobre_Mim... <br>
