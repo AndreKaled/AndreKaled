@@ -2,8 +2,8 @@
 
 <div style="overflow-x:auto">
 <table>  <tr>
-  <td style="min-width: 155px">
-    <img src="nerd_emoji!.png" alt="Nerd Emoji" style="min-width:150px;min-height:150px;">
+  <td style="min-width: 155px;min-heigth: 155px">
+    <img src="nerd_emoji!.png" alt="Nerd Emoji" style="min-width:100%;min-height:100%">
   </td>
   <td>
     /Sobre_Mim... <br>
