@@ -1,10 +1,10 @@
 # Hey! André aqui!
 
-<table style="width: 100%; table-layout: fixed;">  <tr>
-  <td style="background-color: lightblue; padding: 20px; margin: 10px;">
-    <img src="nerd_emoji!.jpg" alt="Nerd Emoji" style="width: 100%; max-width: 400px; height: auto;">
+<table>  <tr>
+  <td>
+    <img src="nerd_emoji!.jpg" alt="Nerd Emoji" style="min-width:150px;min-height:150px;">
   </td>
-  <td style="background-color: lightgreen; padding: 20px; margin: 10px;">
+  <td>
     /Sobre_Mim... <br>
     | <br>
     |-- /BIO <br>
