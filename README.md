@@ -2,7 +2,7 @@
 
 <table>  <tr>
   <td>
-    <img src="nerd_emoji!.png" alt="Nerd Emoji" style="width:2000px">
+    <img src="nerd_emoji!.png" alt="Nerd Emoji" style="min-width:200px">
   </td>
   <td>
     /Sobre_Mim... <br>
