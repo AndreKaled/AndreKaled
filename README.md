@@ -1,8 +1,9 @@
 # Hey! André aqui!
+
 <div style="overflow-x:auto">
 <table>  <tr>
   <td style="min-width: 155px">
-    <img src="nerd_emoji!.jpg" alt="Nerd Emoji" style="min-width:150px;min-height:150px;">
+    <img src="nerd_emoji!.png" alt="Nerd Emoji" style="min-width:150px;min-height:150px;">
   </td>
   <td>
     /Sobre_Mim... <br>
